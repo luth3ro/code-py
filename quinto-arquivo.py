@@ -13,7 +13,14 @@ num2=106
 
 print(num1 + num2)
 
-#Décimo segundo exercício 
+#Décimo segundo exercício
+num1 = 52
+num2 = 106
+
+soma = num1 + num2
+print (soma)
+
+#Décimo terceiro exercício 
 num1 = 52
 num2 = 106 
 
@@ -21,3 +28,16 @@ print(num1 - num2)
 #ou 
 subtracao = (num1 - num2)
 print(subtracao)
+
+#Décimo quarto exercício
+num1 = 52
+num2 = 106
+
+print (num1 * num2)
+print (num1 / num2)
+
+'''Décimo quinto exercício'''
+num1 = 51
+print (num1 ** 8)
+
+
